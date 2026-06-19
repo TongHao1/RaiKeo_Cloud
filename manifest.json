@@ -1,0 +1,19 @@
+﻿{
+    "profile":  {
+                    "name":  "raikeo_profile.cfg",
+                    "version":  "2026-06-19",
+                    "url":  "https://TongHao1.github.io/RaiKeo_Cloud/raikeo_profile.cfg",
+                    "size":  3405,
+                    "crc32":  "3BD7CAB7"
+                },
+    "firmware":  {
+                     "name":  "BIGTREE_TFT35_V3.0.28.x.bin",
+                     "version":  "2026-06-19",
+                     "url":  "https://TongHao1.github.io/RaiKeo_Cloud/BIGTREE_TFT35_V3.0.28.x.bin",
+                     "size":  211492,
+                     "crc32":  "2951B4F8"
+                 },
+    "gcodes":  [
+
+               ]
+}
