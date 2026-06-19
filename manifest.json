@@ -1,19 +1,40 @@
-﻿{
-    "profile":  {
-                    "name":  "raikeo_profile.cfg",
-                    "version":  "2026-06-19",
-                    "url":  "https://TongHao1.github.io/RaiKeo_Cloud/raikeo_profile.cfg",
-                    "size":  3405,
-                    "crc32":  "3BD7CAB7"
-                },
-    "firmware":  {
-                     "name":  "BIGTREE_TFT35_V3.0.28.x.bin",
-                     "version":  "2026-06-19",
-                     "url":  "https://TongHao1.github.io/RaiKeo_Cloud/BIGTREE_TFT35_V3.0.28.x.bin",
-                     "size":  211492,
-                     "crc32":  "2951B4F8"
-                 },
-    "gcodes":  [
-
-               ]
+{
+  "profile": {
+    "name": "raikeo_profile.cfg",
+    "version": "2026-06-20",
+    "url": "https://tonghao1.github.io/RaiKeo_Cloud/raikeo_profile.cfg",
+    "size": 3405,
+    "crc32": "3BD7CAB7"
+  },
+  "firmware": {
+    "name": "BIGTREE_TFT35_V3.0.28.x.bin",
+    "version": "2026-06-20",
+    "url": "https://tonghao1.github.io/RaiKeo_Cloud/BIGTREE_TFT35_V3.0.28.x.bin",
+    "size": 211492,
+    "crc32": "D7BF9D72"
+  },
+  "configs": [
+    {
+      "name": "config.ini",
+      "version": "2026-06-20",
+      "url": "https://tonghao1.github.io/RaiKeo_Cloud/config.ini",
+      "size": 45501,
+      "crc32": "922EB6B7"
+    },
+    {
+      "name": "config_rrf.ini",
+      "version": "2026-06-20",
+      "url": "https://tonghao1.github.io/RaiKeo_Cloud/config_rrf.ini",
+      "size": 36874,
+      "crc32": "31532949"
+    },
+    {
+      "name": "language_en.ini",
+      "version": "2026-06-20",
+      "url": "https://tonghao1.github.io/RaiKeo_Cloud/language_en.ini",
+      "size": 11550,
+      "crc32": "5B0D64C7"
+    }
+  ],
+  "gcodes": []
 }
