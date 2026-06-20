@@ -10,8 +10,8 @@
     "name": "BIGTREE_TFT35_V3.0.28.x.bin",
     "version": "2026-06-20",
     "url": "https://tonghao1.github.io/RaiKeo_Cloud/BIGTREE_TFT35_V3.0.28.x.bin",
-    "size": 213660,
-    "crc32": "4CF5A05D"
+    "size": 214504,
+    "crc32": "2CD28E10"
   },
   "configs": [
     {
@@ -36,5 +36,13 @@
       "crc32": "5B0D64C7"
     }
   ],
-  "gcodes": []
+  "gcodes": [
+    {
+      "name": "raikeo_test.gcode",
+      "version": "2026-06-20",
+      "url": "https://tonghao1.github.io/RaiKeo_Cloud/raikeo_test.gcode",
+      "size": 215,
+      "crc32": "44F35ADD"
+    }
+  ]
 }
