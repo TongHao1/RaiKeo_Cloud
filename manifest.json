@@ -10,8 +10,8 @@
     "name": "BIGTREE_TFT35_V3.0.28.x.bin",
     "version": "2026-06-20",
     "url": "https://tonghao1.github.io/RaiKeo_Cloud/BIGTREE_TFT35_V3.0.28.x.bin",
-    "size": 211460,
-    "crc32": "8BF4D27E"
+    "size": 212148,
+    "crc32": "F17584DE"
   },
   "configs": [
     {
@@ -19,7 +19,7 @@
       "version": "2026-06-20",
       "url": "https://tonghao1.github.io/RaiKeo_Cloud/config.ini",
       "size": 45501,
-      "crc32": "922EB6B7"
+      "crc32": "73A0223E"
     },
     {
       "name": "config_rrf.ini",
